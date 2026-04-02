@@ -22,8 +22,8 @@ I am a passionate data engineer with expertise in building and managing data pip
 
 ## Contact Information
 Feel free to reach out for collaboration or inquiries:
-- Email: meghana@example.com  
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/meghana)  
+- Email: meghanam214.mm@gmail.com  
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/meghana-malleshappa)  
 
 ---
 
