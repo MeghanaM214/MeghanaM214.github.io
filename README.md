@@ -14,9 +14,9 @@ I am a passionate data engineer with expertise in building and managing data pip
    Built an ETL pipeline using Talend to extract data from various sources, transform it, and load it into a centralized database, optimizing data flow and storage.
 
 ## Technologies and Skills
-- **Programming Languages:** Python, SQL, Java  
-- **Data Technologies:** Apache Hadoop, Apache Spark, Apache Kafka, Talend  
-- **Databases:** MySQL, PostgreSQL, Amazon Redshift  
+- **Programming Languages:** Python, SQL, Java  , Typescript
+- **Data Technologies:** Apache Spark, Pyspark, Apache Hadoop, Apache Kafka, Talend  
+- **Databases:** MySQL, PostgreSQL, Amazon Redshift , Oracle
 - **Cloud Platforms:** AWS, Google Cloud Platform  
 - **Tools:** Git, Docker, Jupyter Notebooks  
 
